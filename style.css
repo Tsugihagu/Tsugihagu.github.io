@@ -9,6 +9,7 @@ body {
 }
 
 #REZERO{
+    display: flex;
     justify-content: center;
 }
 /* Styling for knapp */
