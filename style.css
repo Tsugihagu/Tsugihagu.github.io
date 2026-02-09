@@ -11,6 +11,7 @@ body {
 #REZERO{
     display: flex;
     justify-content: center;
+    allign-items: center;
 }
 /* Styling for knapp */
 button {
