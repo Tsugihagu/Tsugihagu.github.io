@@ -7,6 +7,9 @@ body {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
 }
+
+#REZERO{
+    justify-content: center;
 /* Styling for knapp */
 button {
     background-color: #ffeb3b;
